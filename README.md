@@ -25,7 +25,22 @@ OpenCV-python used for computer vision, machine learning, and image processing.
 9.	For saving the image with time and date in a specific format, we use datetime.datetime.now().strftime() and enter such a particular date and time format.
 10.	Finally, the image (.png format) is stored in the working directory.
 
+</br>
+</br>
+</br>
+</br>
 
+<p align="center"><img width="480" alt="image" src="https://user-images.githubusercontent.com/72460920/186567356-848ff4d2-3352-4730-a3a4-c4c6c90a39c2.png"></p>
+<p align="center"><img width="481" alt="image" src="https://user-images.githubusercontent.com/72460920/186567395-cd2a5159-5147-48fd-aa6a-a729e73c424d.png"></p>
+<p align="center"><img width="474" alt="image" src="https://user-images.githubusercontent.com/72460920/186567436-fdd7d9da-ad04-442c-826a-8b22fb3dde9c.png"></p>
+<p align="center"><img width="481" alt="image" src="https://user-images.githubusercontent.com/72460920/186567477-b2c0c2f2-c749-4eeb-aca1-307366f71a3c.png"></p>
+<p align="center"><img width="479" alt="image" src="https://user-images.githubusercontent.com/72460920/186567508-46d886b3-d2ef-4810-a997-e144accc376c.png"></p>
+<p align="center"><img width="480" alt="image" src="https://user-images.githubusercontent.com/72460920/186567541-b3142f87-85bf-4556-8e8c-fff30b9b1e2f.png"></p>
+
+
+
+</br>
+</br>
 
 
 https://user-images.githubusercontent.com/72460920/186488913-ceb02513-3643-4d7d-9941-e6d71a544215.mp4
